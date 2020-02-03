@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Log" section_id="8651636c1b3200103b244375cc4bcb25" sys_domain="global" table="x_58872_needit_needit" version="3" view="User_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-03 09:32:38</sys_created_on>
+            <sys_id>ca51636c1b3200103b244375cc4bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="8a51636c1b3200103b244375cc4bcb20">8651636c1b3200103b244375cc4bcb25</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-03 09:32:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-03 09:32:38</sys_created_on>
+            <sys_id>4e51636c1b3200103b244375cc4bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="8a51636c1b3200103b244375cc4bcb20">8651636c1b3200103b244375cc4bcb25</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-03 09:32:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-03 09:32:38</sys_created_on>
+            <sys_id>ce51636c1b3200103b244375cc4bcba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="8a51636c1b3200103b244375cc4bcb20">8651636c1b3200103b244375cc4bcb25</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-03 09:32:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-03 09:32:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8651636c1b3200103b244375cc4bcb25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_8651636c1b3200103b244375cc4bcb25</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-03 09:32:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User view" name="User_view">8a51636c1b3200103b244375cc4bcb20</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d0dc09b9dbaf97486578f22ebf96199e</instance_id>
+        <instance_name>dev67417</instance_name>
+        <name>sys_ui_section_8651636c1b3200103b244375cc4bcb25</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Log" section_id="8651636c1b3200103b244375cc4bcb25" sys_domain="global" table="x_58872_needit_needit" version="3" view="User_view"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-03 09:32:38</sys_created_on><sys_id>ca51636c1b3200103b244375cc4bcba6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="8a51636c1b3200103b244375cc4bcb20">8651636c1b3200103b244375cc4bcb25</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-03 09:32:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-03 09:32:38</sys_created_on><sys_id>4e51636c1b3200103b244375cc4bcba6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="8a51636c1b3200103b244375cc4bcb20">8651636c1b3200103b244375cc4bcb25</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-03 09:32:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes_list</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-03 09:32:38</sys_created_on><sys_id>ce51636c1b3200103b244375cc4bcba6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="8a51636c1b3200103b244375cc4bcb20">8651636c1b3200103b244375cc4bcb25</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-03 09:32:38</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Log</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-03 09:32:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8651636c1b3200103b244375cc4bcb25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Log</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_8651636c1b3200103b244375cc4bcb25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-03 09:32:38</sys_updated_on><sys_user/><title>false</title><view display_value="User view" name="User_view">8a51636c1b3200103b244375cc4bcb20</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-370414775</payload_hash>
+        <record_name>Needit</record_name>
+        <reverted_from/>
+        <source>bc17ec7f1b6200103b244375cc4bcb47</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 09:32:38</sys_created_on>
+        <sys_id>8651636c1b3200103b244375cc4bcba8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1700a65096a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 09:32:38</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>0251636c49320010cf2e847438d420a8</update_guid>
+        <update_guid_history>0251636c49320010cf2e847438d420a8:-370414775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 09:33:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>201428bf6ff6443299aa721032dad884</sys_id>
+        <sys_metadata>8651636c1b3200103b244375cc4bcb25</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Needit">6bdd09771b2600103b244375cc4bcb76</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8651636c1b3200103b244375cc4bcb25</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8651636c1b3200103b244375cc4bcb25">8651636c1b3200103b244375cc4bcba8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 09:33:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
